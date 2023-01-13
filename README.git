@@ -1,0 +1,16 @@
+hint : Vous avez ajouté un autre dépôt git à l'intérieur de votre dépôt actuel.
+hint : Les clones du dépôt externe ne contiendront pas le contenu de
+hint : le dépôt intégré et ne sauront pas comment l'obtenir.
+hint : Si vous voulez ajouter un sous-module, utilisez :
+hint : 
+hint : git submodule add <url> themes/blank
+hint : 
+hint : Si vous avez ajouté ce chemin par erreur, vous pouvez le supprimer de l'indice
+hint : index avec :
+hint : 
+hint : git rm --cached themes/blank
+hint : 
+hint : Voir "git help submodule" pour plus d'informations.
+warning : ajout du dépôt git intégré : themes/hyde
+
+Traduit avec www.DeepL.com/Translator (version gratuite)

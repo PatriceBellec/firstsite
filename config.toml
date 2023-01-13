@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mes recettes"
+theme = "blank"
+
+[[menu.main]]
+  name = "A propos"
+  url = "/a-propos"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog"
+
