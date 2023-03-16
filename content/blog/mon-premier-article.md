@@ -14,6 +14,7 @@ draft: false
 
 ### Entrées, tartes, ...
 
+- [Feuilleté au thon](https://www.cuisineactuelle.fr/recettes/feuillete-au-thon-et-poivrons-211340)
 - [Feuilletés aux saint-jacques et poireaux](https://www.ptitecuisinedepauline.com/2022/12/feuilletes-aux-saint-jacques-et-poireaux.html)
 - [Galettes de riz, courgette, carotte, oeufs](https://www.youtube.com/watch?v=K-X4kHMgeqM)
 - [Tarte à l'oignon](https://papaencuisine.com/tarte-a-loignon/)
@@ -38,6 +39,7 @@ draft: false
 - [Colombo de porc](https://www.marmiton.org/recettes/recette_colombo-de-porc_26277.aspx)
 - [Colombo de veau](https://www.marieclaire.fr/cuisine/colombo-de-veau,1292071.asp)
 - [Courgettes farcies](https://cuisine.journaldesfemmes.fr/recette/304199-courgettes-farcies)
+- [Croziflette](https://actu.femmeactuelle.fr/cuisine/cuisine-des-chefs/croziflette-la-recette-ultra-gourmande-de-julie-andrieu-2151345)
 - [Cuisse de canard à l'orientale](https://www.marmiton.org/recettes/recette_cuisse-de-canard-a-l-orientale_61466.aspx)
 - [Filet mignon au four](https://www.750g.com/filet-mignon-de-porc-au-four-r99713.htm)
 - [Gratin de chou fleur au comté et aux lardons](https://www.papillesetpupilles.fr/2015/01/gratin-de-chou-fleur-au-comte-et-aux-lardons.html/)
