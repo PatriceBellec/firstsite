@@ -46,6 +46,7 @@ draft: false
 - [Lasagnes aux légumes du soleil](https://www.ptitecuisinedepauline.com/2016/08/lasagnes-aux-legumes-du-soleil.html)
 - [Lapin au four à la moutarde](https://www.femmeactuelle.fr/cuisine/recettes/plat/lapin-au-four-a-la-moutarde-00523)
 - [Lentilles et saucisses de morteau](https://www.marmiton.org/recettes/recette_lentilles-et-saucisses-de-morteau-a-ma-facon_24957.aspx)
+- [Nouilles chinoise ou Wok veggie](https://www.moulinex.fr/recette/detail/PRO/Wok%20veggie/2515321)
 - [Nouilles sautées au poulet](https://www.cuisineactuelle.fr/recettes/nouilles-sautees-au-poulet-208644)
 - [Osso bucco aux olives](https://www.cuisineactuelle.fr/culture-food/idees-de-menus/idees-de-repas/osso-bucco-aux-olives-en-video-176497)
 - [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
