@@ -14,6 +14,8 @@ draft: false
 
 ### Entrées, tartes, ...
 
+- [Pâte brisée](https://lacuisinedannie.20minutes.fr/recette-pate-brisee-187.html)
+- [Pâte brisée (Marmiton)](https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx)
 - [Feuilleté au thon](https://www.cuisineactuelle.fr/recettes/feuillete-au-thon-et-poivrons-211340)
 - [Feuilletés aux saint-jacques et poireaux](https://www.ptitecuisinedepauline.com/2022/12/feuilletes-aux-saint-jacques-et-poireaux.html)
 - [Galettes de riz, courgette, carotte, oeufs](https://www.youtube.com/watch?v=K-X4kHMgeqM)
@@ -52,6 +54,7 @@ draft: false
 - [Osso bucco aux olives](https://www.cuisineactuelle.fr/culture-food/idees-de-menus/idees-de-repas/osso-bucco-aux-olives-en-video-176497)
 - [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
 - [Paëlla](https://www.meilleurduchef.com/fr/recette/paella.html)
+- [Pates aux poireaux](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/pates-aux-poireaux-la-recette-ultra-express-pour-se-regaler-meme-quand-on-na-pas-le-temps-2171882?utm)
 - [Potée au chou, carrotes et saucisses de morteau](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/potee-legere-au-chou-carottes-et-saucisse-de-morteau)
 - [Tartiflette irlandaise](https://www.marmiton.org/recettes/recette_tartiflette-irlandaise_17605.aspx)
 

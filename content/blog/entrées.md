@@ -3,7 +3,8 @@ title: "Entrées"
 date: 2022-12-22T17:34:10+01:00
 draft: false 
 ---
-
+- [Pâte brisée](https://lacuisinedannie.20minutes.fr/recette-pate-brisee-187.html)
+- [Pâte brisée (Marmiton)](https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx)
 - [Feuilletés aux saint-jacques et poireaux](https://www.ptitecuisinedepauline.com/2022/12/feuilletes-aux-saint-jacques-et-poireaux.html)
 - [Galettes de riz, courgette, carotte, oeufs](https://www.youtube.com/watch?v=K-X4kHMgeqM)
 - [Tarte à l'oignon](https://papaencuisine.com/tarte-a-loignon/)
