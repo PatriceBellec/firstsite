@@ -45,7 +45,6 @@ draft: false
 - [Cuisse de canard à l'orientale](https://www.marmiton.org/recettes/recette_cuisse-de-canard-a-l-orientale_61466.aspx)
 - [Filet mignon au four](https://www.750g.com/filet-mignon-de-porc-au-four-r99713.htm)
 - [Gratin de chou fleur au comté et aux lardons](https://www.papillesetpupilles.fr/2015/01/gratin-de-chou-fleur-au-comte-et-aux-lardons.html/)
-- [Lasagnes aux légumes du soleil](https://www.ptitecuisinedepauline.com/2016/08/lasagnes-aux-legumes-du-soleil.html)
 - [Lapin au four à la moutarde](https://www.femmeactuelle.fr/cuisine/recettes/plat/lapin-au-four-a-la-moutarde-00523)
 - [Lentilles et saucisses de morteau](https://www.marmiton.org/recettes/recette_lentilles-et-saucisses-de-morteau-a-ma-facon_24957.aspx)
 - [Moussaka](https://chefsimon.com/gourmets/chef-simon/recettes/moussaka--7)
@@ -54,9 +53,14 @@ draft: false
 - [Osso bucco aux olives](https://www.cuisineactuelle.fr/culture-food/idees-de-menus/idees-de-repas/osso-bucco-aux-olives-en-video-176497)
 - [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
 - [Paëlla](https://www.meilleurduchef.com/fr/recette/paella.html)
-- [Pates aux poireaux](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/pates-aux-poireaux-la-recette-ultra-express-pour-se-regaler-meme-quand-on-na-pas-le-temps-2171882?utm)
 - [Potée au chou, carrotes et saucisses de morteau](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/potee-legere-au-chou-carottes-et-saucisse-de-morteau)
+- [Poulet tikka massala](https://www.cuisineactuelle.fr/recettes/poulet-tikka-massala-recette-facon-indienne-211790?)
 - [Tartiflette irlandaise](https://www.marmiton.org/recettes/recette_tartiflette-irlandaise_17605.aspx)
+
+### Pâtes
+
+- [Lasagnes aux légumes du soleil](https://www.ptitecuisinedepauline.com/2016/08/lasagnes-aux-legumes-du-soleil.html)
+- [Pates aux poireaux](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/pates-aux-poireaux-la-recette-ultra-express-pour-se-regaler-meme-quand-on-na-pas-le-temps-2171882?utm)
 
 ### Pommes de terre
 
