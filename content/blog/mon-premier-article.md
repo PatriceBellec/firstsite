@@ -45,6 +45,7 @@ draft: false
 - [Cuisse de canard à l'orientale](https://www.marmiton.org/recettes/recette_cuisse-de-canard-a-l-orientale_61466.aspx)
 - [Filet mignon au four](https://www.750g.com/filet-mignon-de-porc-au-four-r99713.htm)
 - [Gratin de chou fleur au comté et aux lardons](https://www.papillesetpupilles.fr/2015/01/gratin-de-chou-fleur-au-comte-et-aux-lardons.html/)
+- [Gratin de courgettes à la viande](https://www.femmeactuelle.fr/cuisine/recettes/plat-unique/gratin-de-courgette-facile-a-la-viande-15699)
 - [Lapin au four à la moutarde](https://www.femmeactuelle.fr/cuisine/recettes/plat/lapin-au-four-a-la-moutarde-00523)
 - [Lentilles et saucisses de morteau](https://www.marmiton.org/recettes/recette_lentilles-et-saucisses-de-morteau-a-ma-facon_24957.aspx)
 - [Moussaka](https://chefsimon.com/gourmets/chef-simon/recettes/moussaka--7)
@@ -65,7 +66,9 @@ draft: false
 ### Pommes de terre
 
 - [Pommes de terre au paprika](https://www.cuisineaz.com/recettes/pommes-de-terre-roties-au-four-81636.aspx)
+- [Pommes de terre au thon et légumes](https://www.youtube.com/watch?v=CUidisY74ns)
 - [Rösti pomme de terre courgette](https://www.cuisineactuelle.fr/recettes/roesti-pomme-de-terre-courgette-348686)
+- [Salade de pommes de terre allégée](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/salade-de-pommes-de-terre-allegee-la-recette-facile-et-le-secret-d-une-sauce-delicieuse-2174196)
 
 ### Desserts
 
