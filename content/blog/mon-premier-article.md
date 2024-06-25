@@ -10,10 +10,10 @@ draft: false
 - [Feuilletés aux saucisses](https://cuisine.journaldesfemmes.fr/recette/324898-feuilletes-aux-saucisses)
 - [Mini croissants apéritif (pizza au jamon et fromage)](https://www.ptitchef.com/recettes/aperitif/mini-croissants-pizza-au-jambon-et-fromage-fid-1563914)
 - [Petits croissants au saumon fumé](https://www.marmiton.org/recettes/recette_petits-croissants-au-saumon-fume-toast-aperitif_20483.aspx)
-- [Rondelles de concombre fromage frais]( https://madame.lefigaro.fr/recettes/rondelles-de-concombre-fromage-frais-fines-herbes-040912-275734)
+- [Rondelles de concombre fromage frais](https://madame.lefigaro.fr/recettes/rondelles-de-concombre-fromage-frais-fines-herbes-040912-275734)
 
 ### Barbecue
-- [Brochettes de poulet à la grecque] (https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/brochette-de-poulet-a-la-grecque-la-recette-facile-qui-plaira-a-tous-vos-invites-2176917?)
+- [Brochettes de poulet à la grecque](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/brochette-de-poulet-a-la-grecque-la-recette-facile-qui-plaira-a-tous-vos-invites-2176917?)
 
 ### Entrées chaudes, tartes, ...
 
