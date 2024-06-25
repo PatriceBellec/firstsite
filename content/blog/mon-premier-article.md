@@ -36,7 +36,7 @@ draft: false
 ### Salades
 
 - [Salade de pommes de terre allégée](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/salade-de-pommes-de-terre-allegee-la-recette-facile-et-le-secret-d-une-sauce-delicieuse-2174196)
-- [Salade grecque] (https://actu.marieclaire.fr/cuisine/la-vraie-salade-grecque-horiatiki,1476192.asp?at_source=cuisinesetvindefrance)
+- [Salade grecque](https://actu.marieclaire.fr/cuisine/la-vraie-salade-grecque-horiatiki,1476192.asp?at_source=cuisinesetvindefrance)
 
 ### Potages, véloutés
 
