@@ -12,7 +12,10 @@ draft: false
 - [Petits croissants au saumon fumé](https://www.marmiton.org/recettes/recette_petits-croissants-au-saumon-fume-toast-aperitif_20483.aspx)
 - [Rondelles de concombre fromage frais]( https://madame.lefigaro.fr/recettes/rondelles-de-concombre-fromage-frais-fines-herbes-040912-275734)
 
-### Entrées, tartes, ...
+### Barbecue
+- [Brochettes de poulet à la grecque] (https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/brochette-de-poulet-a-la-grecque-la-recette-facile-qui-plaira-a-tous-vos-invites-2176917?)
+
+### Entrées chaudes, tartes, ...
 
 - [Pâte brisée](https://lacuisinedannie.20minutes.fr/recette-pate-brisee-187.html)
 - [Pâte brisée (Marmiton)](https://www.marmiton.org/recettes/recette_pate-brisee-vite-faite_31639.aspx)
@@ -29,6 +32,11 @@ draft: false
 ### Fruits de mer
 
 - [Saison, cuisson, ...](https://www.fruitsdelamer.com/)
+
+### Salades
+
+- [Salade de pommes de terre allégée](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/salade-de-pommes-de-terre-allegee-la-recette-facile-et-le-secret-d-une-sauce-delicieuse-2174196)
+- [Salade grecque] (https://actu.marieclaire.fr/cuisine/la-vraie-salade-grecque-horiatiki,1476192.asp?at_source=cuisinesetvindefrance)
 
 ### Potages, véloutés
 
