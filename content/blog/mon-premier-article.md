@@ -60,10 +60,11 @@ draft: false
 - [Nouilles chinoises ou Wok veggie](https://www.moulinex.fr/recette/detail/PRO/Wok%20veggie/2515321)
 - [Nouilles sautées au poulet](https://www.cuisineactuelle.fr/recettes/nouilles-sautees-au-poulet-208644)
 - [Osso bucco aux olives](https://www.cuisineactuelle.fr/culture-food/idees-de-menus/idees-de-repas/osso-bucco-aux-olives-en-video-176497)
-- [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
 - [Paëlla](https://www.meilleurduchef.com/fr/recette/paella.html)
 - [Potée au chou, carrotes et saucisses de morteau](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/potee-legere-au-chou-carottes-et-saucisse-de-morteau)
 - [Poulet tikka massala](https://www.cuisineactuelle.fr/recettes/poulet-tikka-massala-recette-facon-indienne-211790?)
+- [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
+- [Sauté de porc au curry](https://www.cuisineaz.com/recettes/saute-de-porc-au-curry-14104.aspx)
 - [Tartiflette irlandaise](https://www.marmiton.org/recettes/recette_tartiflette-irlandaise_17605.aspx)
 
 ### Pâtes
