@@ -64,6 +64,7 @@ draft: false
 - [Potée au chou, carrotes et saucisses de morteau](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/potee-legere-au-chou-carottes-et-saucisse-de-morteau)
 - [Poulet tikka massala](https://www.cuisineactuelle.fr/recettes/poulet-tikka-massala-recette-facon-indienne-211790?)
 - [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
+- [Rougail saucisse réunionnais](https://ileauxepices.com/blog/2013/01/07/recette-du-rougail-saucisse-reunionnais-traditionnel/wpid697/)
 - [Sauté de porc au curry](https://www.cuisineaz.com/recettes/saute-de-porc-au-curry-14104.aspx)
 - [Tartiflette irlandaise](https://www.marmiton.org/recettes/recette_tartiflette-irlandaise_17605.aspx)
 
