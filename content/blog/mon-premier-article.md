@@ -40,6 +40,7 @@ draft: false
 
 ### Potages, véloutés
 
+- [Velouté de poireaux pommes de terre](https://cuisine.journaldesfemmes.fr/recette/309811-veloute-de-poireaux)
 - [Velouté de potiron et carottes](https://www.marmiton.org/recettes/recette_veloute-de-potiron-et-carottes_19009.aspx)
 
 ### Plats
