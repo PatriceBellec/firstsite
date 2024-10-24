@@ -46,6 +46,7 @@ draft: false
 ### Plats
 
 - [Chili con carne](https://cuisine.journaldesfemmes.fr/recette/349671-chili-con-carne)
+- [Chou romanesco à la crème] (https://www.potagercity.fr/recettes/poelee-de-chou-romanesco-a-la-creme/35037/)
 - [Colombo aux légumes d'hiver](https://actu.marieclaire.fr/cuisine/colombo-aux-legumes-d-hiver,1442155.asp#xtor=EREC-17)
 - [Colombo de porc](https://www.marmiton.org/recettes/recette_colombo-de-porc_26277.aspx)
 - [Colombo de veau](https://www.marieclaire.fr/cuisine/colombo-de-veau,1292071.asp)
