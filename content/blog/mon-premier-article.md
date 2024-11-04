@@ -57,6 +57,7 @@ draft: false
 - [Gratin de chou fleur au comté et aux lardons](https://www.papillesetpupilles.fr/2015/01/gratin-de-chou-fleur-au-comte-et-aux-lardons.html/)
 - [Gratin de courgettes à la viande](https://www.femmeactuelle.fr/cuisine/recettes/plat-unique/gratin-de-courgette-facile-a-la-viande-15699)
 - [Lapin au four à la moutarde](https://www.femmeactuelle.fr/cuisine/recettes/plat/lapin-au-four-a-la-moutarde-00523)
+- [Lasagnes aux légumes du soleil](https://www.ptitecuisinedepauline.com/2016/08/lasagnes-aux-legumes-du-soleil.html)
 - [Lentilles et saucisses de morteau](https://www.marmiton.org/recettes/recette_lentilles-et-saucisses-de-morteau-a-ma-facon_24957.aspx)
 - [Moussaka](https://chefsimon.com/gourmets/chef-simon/recettes/moussaka--7)
 - [Nouilles chinoises ou Wok veggie](https://www.moulinex.fr/recette/detail/PRO/Wok%20veggie/2515321)
