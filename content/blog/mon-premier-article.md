@@ -82,6 +82,7 @@ draft: false
 - [Pommes de terre au thon et légumes](https://www.youtube.com/watch?v=CUidisY74ns)
 - [Rösti pomme de terre courgette](https://www.cuisineactuelle.fr/recettes/roesti-pomme-de-terre-courgette-348686)
 - [Salade de pommes de terre allégée](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/salade-de-pommes-de-terre-allegee-la-recette-facile-et-le-secret-d-une-sauce-delicieuse-2174196)
+- [Tortilla espagnole](https://cuisine.journaldesfemmes.fr/recette/324537-tortilla)
 
 ### Desserts
 
