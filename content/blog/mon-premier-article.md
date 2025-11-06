@@ -41,6 +41,7 @@ draft: false
 ### Potages, véloutés
 
 - [Velouté de poireaux pommes de terre](https://cuisine.journaldesfemmes.fr/recette/309811-veloute-de-poireaux)
+- [Velouté de potimarron et pommes de terre](https://www.marmiton.org/recettes/recette_soupe-veloutee-de-potimarron-et-pommes-de-terre_41161.aspx)
 - [Velouté de potiron et carottes](https://www.marmiton.org/recettes/recette_veloute-de-potiron-et-carottes_19009.aspx)
 
 ### Plats
@@ -78,6 +79,7 @@ draft: false
 
 ### Pommes de terre
 
+- [Bouchées au fromage et pommes de terre](https://actu.marieclaire.fr/cuisine/bouchees-croustillantes-au-fromage-et-pommes-de-terre,1489169.asp?at_source=cuisinesetvindefrance)
 - [Pommes de terre au paprika](https://www.cuisineaz.com/recettes/pommes-de-terre-roties-au-four-81636.aspx)
 - [Pommes de terre au thon et légumes](https://www.youtube.com/watch?v=CUidisY74ns)
 - [Rösti pomme de terre courgette](https://www.cuisineactuelle.fr/recettes/roesti-pomme-de-terre-courgette-348686)
