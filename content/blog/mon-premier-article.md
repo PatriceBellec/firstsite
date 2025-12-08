@@ -76,6 +76,7 @@ draft: false
 
 - [Lasagnes aux légumes du soleil](https://www.ptitecuisinedepauline.com/2016/08/lasagnes-aux-legumes-du-soleil.html)
 - [Pates aux poireaux](https://actu.femmeactuelle.fr/cuisine/recettes-de-cuisine/pates-aux-poireaux-la-recette-ultra-express-pour-se-regaler-meme-quand-on-na-pas-le-temps-2171882?utm)
+- [Pennes aux courgettes et lardons] (https://www.herta.fr/recettes/penne-a-creme-courgettes-lardons)
 
 ### Pommes de terre
 
