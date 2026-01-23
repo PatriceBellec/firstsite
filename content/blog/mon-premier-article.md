@@ -63,6 +63,7 @@ draft: false
 - [Moussaka](https://chefsimon.com/gourmets/chef-simon/recettes/moussaka--7)
 - [Nouilles chinoises ou Wok veggie](https://www.moulinex.fr/recette/detail/PRO/Wok%20veggie/2515321)
 - [Nouilles sautées au poulet](https://www.cuisineactuelle.fr/recettes/nouilles-sautees-au-poulet-208644)
+- [Nouilles sautées au poulet et aux légumes](https://lacuisinedebernard.com/nouilles-sautees-au-poulet-et-aux-legumes)
 - [Osso bucco aux olives](https://www.cuisineactuelle.fr/culture-food/idees-de-menus/idees-de-repas/osso-bucco-aux-olives-en-video-176497)
 - [Paëlla](https://www.meilleurduchef.com/fr/recette/paella.html)
 - [Potée au chou, carrotes et saucisses de morteau](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/potee-legere-au-chou-carottes-et-saucisse-de-morteau)
