@@ -67,6 +67,7 @@ draft: false
 - [Osso bucco aux olives](https://www.cuisineactuelle.fr/culture-food/idees-de-menus/idees-de-repas/osso-bucco-aux-olives-en-video-176497)
 - [Paëlla](https://www.meilleurduchef.com/fr/recette/paella.html)
 - [Potée au chou, carrotes et saucisses de morteau](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/potee-legere-au-chou-carottes-et-saucisse-de-morteau)
+- [Poulet à la crème et aux champignons](https://www.cuisineaz.com/recettes/poulet-a-la-creme-et-aux-champignons-36462.aspx)
 - [Poulet tikka massala](https://www.cuisineactuelle.fr/recettes/poulet-tikka-massala-recette-facon-indienne-211790?)
 - [Rougail saucisse](https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx)
 - [Rougail saucisse réunionnais](https://ileauxepices.com/blog/2013/01/07/recette-du-rougail-saucisse-reunionnais-traditionnel/wpid697/)
