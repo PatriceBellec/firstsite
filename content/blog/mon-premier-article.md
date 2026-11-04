@@ -75,15 +75,12 @@ draft: false
 - [Sauté de porc au curry](https://www.cuisineaz.com/recettes/saute-de-porc-au-curry-14104.aspx)
 - [Tartiflette irlandaise](https://www.marmiton.org/recettes/recette_tartiflette-irlandaise_17605.aspx)
 
-<<<<<<< HEAD
+### Plats bretons
+- [Farz buen](https://cuisinealouest.com/le-farz-buen/)
+
 ### Sauces
 
 - [Sauce au poivre](https://actu.femmeactuelle.fr/cuisine/cuisine-des-chefs/norbert-tarayre-devoile-la-recette-de-la-veritable-sauce-au-poivre-pour-accompagner-une-bavette-ou-une-entrecote-2206439?)
-=======
-### Plats bretons
-
-- [Farz buen](https://cuisinealouest.com/le-farz-buen/)
->>>>>>> a6c6cd9 (ajout farz buen)
 
 ### Pâtes
 
