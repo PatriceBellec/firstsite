@@ -1,0 +1,13 @@
+Ajouter les modifications d'un fichier sur un depot distant (
+https://github.com/PatriceBellec/firstsite) :
+
+je me place dans le repertoire local : cd $firstsite
+
+git add content/blog/mon-premier-article.md
+git commit -m 'ajout Moussaka'
+git push
+
+Username for 'https://github.com': Patrice.Bellec@univ-brest.fr
+
+Password for 'https://Patrice.Bellec@univ-brest.fr@github.com': ici on
+met la chaîne de caractères qui est dans le fichier ~/tmp/TokenGithub
