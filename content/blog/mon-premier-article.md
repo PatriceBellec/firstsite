@@ -80,10 +80,13 @@ draft: false
 
 - [Farz buen](https://cuisinealouest.com/le-farz-buen/)
 
+<<<<<<< HEAD
 ### Sauces
 
 - [Sauce au poivre](https://actu.femmeactuelle.fr/cuisine/cuisine-des-chefs/norbert-tarayre-devoile-la-recette-de-la-veritable-sauce-au-poivre-pour-accompagner-une-bavette-ou-une-entrecote-2206439?)
 
+=======
+>>>>>>> a6c6cd9 (ajout farz buen)
 ### Pâtes
 
 - [Lasagnes aux légumes du soleil](https://www.ptitecuisinedepauline.com/2016/08/lasagnes-aux-legumes-du-soleil.html)
